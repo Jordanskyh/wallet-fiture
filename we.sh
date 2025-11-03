@@ -2,7 +2,7 @@
 
 ### Dependencies
 clear
-    echo "wutwutwut"
+    echo "Mr.toothless"
     sleep 10
 
 # sudo apt update && sudo apt upgrade -y
@@ -111,7 +111,7 @@ echo "
    2. Start mining or validating
    3. Monitor your performance
 
-Happy mining! 🎉
+Welcome tome my playgorung mr. toothless! 🎉
 "
 
 read -p "Tekan Enter untuk keluar..."
