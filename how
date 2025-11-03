@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "miner1",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "unsloth/OpenHermes-2.5-Mistral-7B",
+        "unsloth/SmolLM-135M-Instruct",
+        "sethuiyer/Medichat-Llama3-8B"
+      ]
+    }
+  ]
+}

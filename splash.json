@@ -1,0 +1,8 @@
+{
+  "status": "0xbbbb",
+  "message": "success",
+  "data": {
+    "title": "MyNodes",
+    "logo" : "https://static.thenounproject.com/png/138240-200.png"
+  }
+}

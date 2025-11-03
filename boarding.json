@@ -1,0 +1,8 @@
+{
+  "status": "0xbbbb",
+  "message": "success",
+  "data": {
+    "title": "MyNodes",
+    "desc" : "<b> MyNodes </b> you can monitor node with one touch"
+  }
+}
